@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/magafung/magafung/upload/main/assets/githubmaga.gif" alt=" Olá, eu sou a Magalena">
+  <img src="https://github.com/magafung/magafung/raw/main/assets/githubmaga.gif" alt=" Olá, eu sou a Magalena">
 </p>
 
 <!--
