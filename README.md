@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/magafung/magafung/raw/main/assets/githubmaga.gif" alt=" Olá, eu sou a Magalena">
 </p>
+ 
+![Magafung GitHub stats](https://github-readme-stats.vercel.app/api?username=magafung&show_icons=true&theme=tokyonight)
 
 <!--
 **magafung/magafung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
