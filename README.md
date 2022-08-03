@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/magafung/magafung/upload/main/assets/githubmaga.gif" alt=" Olá, eu sou a Magalena">
+</p>
 
 <!--
 **magafung/magafung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
